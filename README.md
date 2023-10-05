@@ -40,7 +40,7 @@ correlation analysis will be utilized to gain insights into accident patterns.
 significant factors contributing to accidents and their severity.
 5. Recommendations: Based on the analysis, formulate evidence-based recommendations and
 strategies to improve road safety and mitigate the identified risk factors.
-6. Conclusion: Sum up the results and emphasize the importance of data-driven decisionmaking in enhancing road safety.
+6. Conclusion: Sum up the results and emphasize the importance of data-driven decision making in enhancing road safety.
 7. By performing this EDA, the project aims to provide valuable insights to relevant
 stakeholders, such as transportation authorities, policymakers, and law enforcement, to take
 proactive measures in reducing road accidents and making roads safer for everyone.
