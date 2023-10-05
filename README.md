@@ -27,7 +27,7 @@ dataset.
 
 
 # Project_Overview:
-The project will involve the following steps
+The project will involve the following steps:
 
 1. Data Collection: Obtain the road traffic accidents dataset containing various attributes related
 to accidents, drivers, vehicles, road conditions, casualties, and more.
