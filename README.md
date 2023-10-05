@@ -1,5 +1,5 @@
 # Exploratory_Data_Analysis
-##Problem Statement
+# Problem_Statement:
 
 The problem is to analyze and understand road traffic accidents using the
 provided dataset. The goal is to perform an exploratory data analysis (EDA) to identify patterns,
@@ -7,7 +7,7 @@ factors, and trends that contribute to accidents and their severity. By gaining 
 data, the project aims to formulate evidence-based recommendations to enhance road safety and
 reduce the number of accidents and casualties.
 
-##Project Objective
+# Project_Objective:
 
 The primary objective of the project is to conduct an EDA on the road traffic accidents dataset
 and extract meaningful insights. The specific objectives are as follows:
@@ -26,7 +26,7 @@ movements leading to accidents.
 dataset.
 
 
-##Project Overview:
+# Project_Overview:
 The project will involve the following steps
 
 1. Data Collection: Obtain the road traffic accidents dataset containing various attributes related
